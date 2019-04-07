@@ -1,0 +1,2 @@
+# HRM-system
+It's a web application for Human resources management for a university which is implemented based on raw PHP and MySQL database. It's a platform where a candidate applies there for a job via this application. Candidates submit their cv in this platform and their cv will be classified by department wise and will send automatically to head of department . Then head of department will be sorting cv then sorted cv will send to HR department.HR department will call candidates for interview.
